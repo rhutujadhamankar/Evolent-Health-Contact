@@ -1,0 +1,67 @@
+﻿@model Crud_by_Entityframwork.Models.tblContactDetail
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <link href="~/Content/bootstrap.min.css" rel="stylesheet" />
+    <title>EditForm</title>
+</head>
+<body>
+    <div class="col-md-12" style="padding-top:150px">
+        @using (Html.BeginForm())
+        {
+            @Html.AntiForgeryToken()
+
+            <center><h3>Edit Registration for Evolent Health</h3><hr /></center>
+            <div class="col-md-2"></div>
+            <div class="col-lg-8 col-md-8 col-sm-8 col-xs-8">
+                <div>
+                    @Html.HiddenFor(m => m.Personid)
+                    <table class="table table-bordered table-striped">
+                        <tr>
+                            <td>First Name</td>
+                            <td>@Html.TextBoxFor(m => m.FirstName, "", new { @class = "form-control" })</td>
+                            <td>@Html.ValidationMessageFor(model => model.FirstName, "", new { @class = "text-danger" })</td>
+
+                        </tr>
+                        <tr>
+                            <td>Last Name</td>
+                            <td>@Html.TextBoxFor(m => m.LastName, "", new { @class = "form-control" })</td>
+                            <td>@Html.ValidationMessageFor(model => model.LastName, "", new { @class = "text-danger" })</td>
+
+                        </tr>
+                        <tr>
+                            <td>Phone Number</td>
+                            <td>@Html.TextBoxFor(m => m.PhoneNumber, "", new { @class = "form-control" })</td>
+                            <td>@Html.ValidationMessageFor(model => model.PhoneNumber, "", new { @class = "text-danger" })</td>
+
+                        </tr>
+                        <tr>
+                            <td>Email</td>
+                            <td>@Html.TextBoxFor(m => m.Email, "", new { @class = "form-control" })</td>
+                            <td>@Html.ValidationMessageFor(model => model.Email, "", new { @class = "text-danger" })</td>
+
+                        </tr>
+                        <tr>
+                            <td></td>
+                            <td><input type="submit" value="Submit" class="btn btn-primary" /></td>
+                        </tr>
+                        <tr>
+                            <td></td>
+                            <td> @Html.ActionLink("Index for Registration", "Index")</td>
+                        </tr>
+
+                    </table>
+                </div>
+            </div>
+            <div class="col-md-2"></div>
+
+        }
+    </div>
+</body>
+</html>

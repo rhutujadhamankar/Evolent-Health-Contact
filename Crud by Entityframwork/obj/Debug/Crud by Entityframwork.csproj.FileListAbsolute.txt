@@ -1,0 +1,167 @@
+E:\PracticeDemoForHOOPS\MVC_PROJECTS\Crud by Entityframwork\Crud by Entityframwork\bin\Crud by Entityframwork.dll.config
+E:\PracticeDemoForHOOPS\MVC_PROJECTS\Crud by Entityframwork\Crud by Entityframwork\bin\Crud by Entityframwork.dll
+E:\PracticeDemoForHOOPS\MVC_PROJECTS\Crud by Entityframwork\Crud by Entityframwork\bin\Crud by Entityframwork.pdb
+E:\PracticeDemoForHOOPS\MVC_PROJECTS\Crud by Entityframwork\Crud by Entityframwork\bin\roslyn\csc.exe
+E:\PracticeDemoForHOOPS\MVC_PROJECTS\Crud by Entityframwork\Crud by Entityframwork\bin\roslyn\csc.exe.config
+E:\PracticeDemoForHOOPS\MVC_PROJECTS\Crud by Entityframwork\Crud by Entityframwork\bin\roslyn\csc.rsp
+E:\PracticeDemoForHOOPS\MVC_PROJECTS\Crud by Entityframwork\Crud by Entityframwork\bin\roslyn\csi.exe
+E:\PracticeDemoForHOOPS\MVC_PROJECTS\Crud by Entityframwork\Crud by Entityframwork\bin\roslyn\csi.exe.config
+E:\PracticeDemoForHOOPS\MVC_PROJECTS\Crud by Entityframwork\Crud by Entityframwork\bin\roslyn\csi.rsp
+E:\PracticeDemoForHOOPS\MVC_PROJECTS\Crud by Entityframwork\Crud by Entityframwork\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\PracticeDemoForHOOPS\MVC_PROJECTS\Crud by Entityframwork\Crud by Entityframwork\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\PracticeDemoForHOOPS\MVC_PROJECTS\Crud by Entityframwork\Crud by Entityframwork\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\PracticeDemoForHOOPS\MVC_PROJECTS\Crud by Entityframwork\Crud by Entityframwork\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\PracticeDemoForHOOPS\MVC_PROJECTS\Crud by Entityframwork\Crud by Entityframwork\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\PracticeDemoForHOOPS\MVC_PROJECTS\Crud by Entityframwork\Crud by Entityframwork\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\PracticeDemoForHOOPS\MVC_PROJECTS\Crud by Entityframwork\Crud by Entityframwork\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\PracticeDemoForHOOPS\MVC_PROJECTS\Crud by Entityframwork\Crud by Entityframwork\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\PracticeDemoForHOOPS\MVC_PROJECTS\Crud by Entityframwork\Crud by Entityframwork\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\PracticeDemoForHOOPS\MVC_PROJECTS\Crud by Entityframwork\Crud by Entityframwork\bin\roslyn\Microsoft.Managed.Core.targets
+E:\PracticeDemoForHOOPS\MVC_PROJECTS\Crud by Entityframwork\Crud by Entityframwork\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\PracticeDemoForHOOPS\MVC_PROJECTS\Crud by Entityframwork\Crud by Entityframwork\bin\roslyn\System.AppContext.dll
+E:\PracticeDemoForHOOPS\MVC_PROJECTS\Crud by Entityframwork\Crud by Entityframwork\bin\roslyn\System.Collections.Immutable.dll
+E:\PracticeDemoForHOOPS\MVC_PROJECTS\Crud by Entityframwork\Crud by Entityframwork\bin\roslyn\System.Console.dll
+E:\PracticeDemoForHOOPS\MVC_PROJECTS\Crud by Entityframwork\Crud by Entityframwork\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\PracticeDemoForHOOPS\MVC_PROJECTS\Crud by Entityframwork\Crud by Entityframwork\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\PracticeDemoForHOOPS\MVC_PROJECTS\Crud by Entityframwork\Crud by Entityframwork\bin\roslyn\System.IO.Compression.dll
+E:\PracticeDemoForHOOPS\MVC_PROJECTS\Crud by Entityframwork\Crud by Entityframwork\bin\roslyn\System.IO.FileSystem.dll
+E:\PracticeDemoForHOOPS\MVC_PROJECTS\Crud by Entityframwork\Crud by Entityframwork\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\PracticeDemoForHOOPS\MVC_PROJECTS\Crud by Entityframwork\Crud by Entityframwork\bin\roslyn\System.IO.Pipes.AccessControl.dll
+E:\PracticeDemoForHOOPS\MVC_PROJECTS\Crud by Entityframwork\Crud by Entityframwork\bin\roslyn\System.IO.Pipes.dll
+E:\PracticeDemoForHOOPS\MVC_PROJECTS\Crud by Entityframwork\Crud by Entityframwork\bin\roslyn\System.Reflection.Metadata.dll
+E:\PracticeDemoForHOOPS\MVC_PROJECTS\Crud by Entityframwork\Crud by Entityframwork\bin\roslyn\System.Security.AccessControl.dll
+E:\PracticeDemoForHOOPS\MVC_PROJECTS\Crud by Entityframwork\Crud by Entityframwork\bin\roslyn\System.Security.Claims.dll
+E:\PracticeDemoForHOOPS\MVC_PROJECTS\Crud by Entityframwork\Crud by Entityframwork\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\PracticeDemoForHOOPS\MVC_PROJECTS\Crud by Entityframwork\Crud by Entityframwork\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\PracticeDemoForHOOPS\MVC_PROJECTS\Crud by Entityframwork\Crud by Entityframwork\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\PracticeDemoForHOOPS\MVC_PROJECTS\Crud by Entityframwork\Crud by Entityframwork\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\PracticeDemoForHOOPS\MVC_PROJECTS\Crud by Entityframwork\Crud by Entityframwork\bin\roslyn\System.Security.Principal.Windows.dll
+E:\PracticeDemoForHOOPS\MVC_PROJECTS\Crud by Entityframwork\Crud by Entityframwork\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\PracticeDemoForHOOPS\MVC_PROJECTS\Crud by Entityframwork\Crud by Entityframwork\bin\roslyn\System.ValueTuple.dll
+E:\PracticeDemoForHOOPS\MVC_PROJECTS\Crud by Entityframwork\Crud by Entityframwork\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\PracticeDemoForHOOPS\MVC_PROJECTS\Crud by Entityframwork\Crud by Entityframwork\bin\roslyn\System.Xml.XmlDocument.dll
+E:\PracticeDemoForHOOPS\MVC_PROJECTS\Crud by Entityframwork\Crud by Entityframwork\bin\roslyn\System.Xml.XPath.dll
+E:\PracticeDemoForHOOPS\MVC_PROJECTS\Crud by Entityframwork\Crud by Entityframwork\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\PracticeDemoForHOOPS\MVC_PROJECTS\Crud by Entityframwork\Crud by Entityframwork\bin\roslyn\vbc.exe
+E:\PracticeDemoForHOOPS\MVC_PROJECTS\Crud by Entityframwork\Crud by Entityframwork\bin\roslyn\vbc.exe.config
+E:\PracticeDemoForHOOPS\MVC_PROJECTS\Crud by Entityframwork\Crud by Entityframwork\bin\roslyn\vbc.rsp
+E:\PracticeDemoForHOOPS\MVC_PROJECTS\Crud by Entityframwork\Crud by Entityframwork\bin\roslyn\VBCSCompiler.exe
+E:\PracticeDemoForHOOPS\MVC_PROJECTS\Crud by Entityframwork\Crud by Entityframwork\bin\roslyn\VBCSCompiler.exe.config
+E:\PracticeDemoForHOOPS\MVC_PROJECTS\Crud by Entityframwork\Crud by Entityframwork\bin\Antlr3.Runtime.dll
+E:\PracticeDemoForHOOPS\MVC_PROJECTS\Crud by Entityframwork\Crud by Entityframwork\bin\EntityFramework.dll
+E:\PracticeDemoForHOOPS\MVC_PROJECTS\Crud by Entityframwork\Crud by Entityframwork\bin\EntityFramework.SqlServer.dll
+E:\PracticeDemoForHOOPS\MVC_PROJECTS\Crud by Entityframwork\Crud by Entityframwork\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+E:\PracticeDemoForHOOPS\MVC_PROJECTS\Crud by Entityframwork\Crud by Entityframwork\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\PracticeDemoForHOOPS\MVC_PROJECTS\Crud by Entityframwork\Crud by Entityframwork\bin\Microsoft.Web.Infrastructure.dll
+E:\PracticeDemoForHOOPS\MVC_PROJECTS\Crud by Entityframwork\Crud by Entityframwork\bin\Newtonsoft.Json.dll
+E:\PracticeDemoForHOOPS\MVC_PROJECTS\Crud by Entityframwork\Crud by Entityframwork\bin\System.Diagnostics.DiagnosticSource.dll
+E:\PracticeDemoForHOOPS\MVC_PROJECTS\Crud by Entityframwork\Crud by Entityframwork\bin\System.Web.Helpers.dll
+E:\PracticeDemoForHOOPS\MVC_PROJECTS\Crud by Entityframwork\Crud by Entityframwork\bin\System.Web.Mvc.dll
+E:\PracticeDemoForHOOPS\MVC_PROJECTS\Crud by Entityframwork\Crud by Entityframwork\bin\System.Web.Optimization.dll
+E:\PracticeDemoForHOOPS\MVC_PROJECTS\Crud by Entityframwork\Crud by Entityframwork\bin\System.Web.Razor.dll
+E:\PracticeDemoForHOOPS\MVC_PROJECTS\Crud by Entityframwork\Crud by Entityframwork\bin\System.Web.WebPages.Deployment.dll
+E:\PracticeDemoForHOOPS\MVC_PROJECTS\Crud by Entityframwork\Crud by Entityframwork\bin\System.Web.WebPages.dll
+E:\PracticeDemoForHOOPS\MVC_PROJECTS\Crud by Entityframwork\Crud by Entityframwork\bin\System.Web.WebPages.Razor.dll
+E:\PracticeDemoForHOOPS\MVC_PROJECTS\Crud by Entityframwork\Crud by Entityframwork\bin\WebGrease.dll
+E:\PracticeDemoForHOOPS\MVC_PROJECTS\Crud by Entityframwork\Crud by Entityframwork\bin\EntityFramework.xml
+E:\PracticeDemoForHOOPS\MVC_PROJECTS\Crud by Entityframwork\Crud by Entityframwork\bin\EntityFramework.SqlServer.xml
+E:\PracticeDemoForHOOPS\MVC_PROJECTS\Crud by Entityframwork\Crud by Entityframwork\bin\System.Web.Helpers.xml
+E:\PracticeDemoForHOOPS\MVC_PROJECTS\Crud by Entityframwork\Crud by Entityframwork\bin\System.Web.Mvc.xml
+E:\PracticeDemoForHOOPS\MVC_PROJECTS\Crud by Entityframwork\Crud by Entityframwork\bin\System.Web.Optimization.xml
+E:\PracticeDemoForHOOPS\MVC_PROJECTS\Crud by Entityframwork\Crud by Entityframwork\bin\System.Web.Razor.xml
+E:\PracticeDemoForHOOPS\MVC_PROJECTS\Crud by Entityframwork\Crud by Entityframwork\bin\System.Web.WebPages.xml
+E:\PracticeDemoForHOOPS\MVC_PROJECTS\Crud by Entityframwork\Crud by Entityframwork\bin\System.Web.WebPages.Deployment.xml
+E:\PracticeDemoForHOOPS\MVC_PROJECTS\Crud by Entityframwork\Crud by Entityframwork\bin\System.Web.WebPages.Razor.xml
+E:\PracticeDemoForHOOPS\MVC_PROJECTS\Crud by Entityframwork\Crud by Entityframwork\bin\Newtonsoft.Json.xml
+E:\PracticeDemoForHOOPS\MVC_PROJECTS\Crud by Entityframwork\Crud by Entityframwork\bin\Antlr3.Runtime.pdb
+E:\PracticeDemoForHOOPS\MVC_PROJECTS\Crud by Entityframwork\Crud by Entityframwork\bin\System.Diagnostics.DiagnosticSource.xml
+E:\PracticeDemoForHOOPS\MVC_PROJECTS\Crud by Entityframwork\Crud by Entityframwork\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+E:\PracticeDemoForHOOPS\MVC_PROJECTS\Crud by Entityframwork\Crud by Entityframwork\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\PracticeDemoForHOOPS\MVC_PROJECTS\Crud by Entityframwork\Crud by Entityframwork\obj\Debug\Crud by Entityframwork.csprojAssemblyReference.cache
+E:\PracticeDemoForHOOPS\MVC_PROJECTS\Crud by Entityframwork\Crud by Entityframwork\obj\Debug\Crud by Entityframwork.csproj.CoreCompileInputs.cache
+E:\PracticeDemoForHOOPS\MVC_PROJECTS\Crud by Entityframwork\Crud by Entityframwork\obj\Debug\Crud by Entityframwork.csproj.CopyComplete
+E:\PracticeDemoForHOOPS\MVC_PROJECTS\Crud by Entityframwork\Crud by Entityframwork\obj\Debug\Crud by Entityframwork.dll
+E:\PracticeDemoForHOOPS\MVC_PROJECTS\Crud by Entityframwork\Crud by Entityframwork\obj\Debug\Crud by Entityframwork.pdb
+C:\Project\Crud by Entityframwork\Crud by Entityframwork\obj\Debug\Crud by Entityframwork.csproj.CoreCompileInputs.cache
+C:\Project\Crud by Entityframwork\Crud by Entityframwork\obj\Debug\Crud by Entityframwork.dll
+C:\Project\Crud by Entityframwork\Crud by Entityframwork\obj\Debug\Crud by Entityframwork.pdb
+C:\Project\Crud by Entityframwork\Crud by Entityframwork\bin\Crud by Entityframwork.dll.config
+C:\Project\Crud by Entityframwork\Crud by Entityframwork\bin\Crud by Entityframwork.dll
+C:\Project\Crud by Entityframwork\Crud by Entityframwork\bin\Crud by Entityframwork.pdb
+C:\Project\Crud by Entityframwork\Crud by Entityframwork\bin\roslyn\csc.exe
+C:\Project\Crud by Entityframwork\Crud by Entityframwork\bin\roslyn\csc.exe.config
+C:\Project\Crud by Entityframwork\Crud by Entityframwork\bin\roslyn\csc.rsp
+C:\Project\Crud by Entityframwork\Crud by Entityframwork\bin\roslyn\csi.exe
+C:\Project\Crud by Entityframwork\Crud by Entityframwork\bin\roslyn\csi.exe.config
+C:\Project\Crud by Entityframwork\Crud by Entityframwork\bin\roslyn\csi.rsp
+C:\Project\Crud by Entityframwork\Crud by Entityframwork\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Project\Crud by Entityframwork\Crud by Entityframwork\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Project\Crud by Entityframwork\Crud by Entityframwork\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Project\Crud by Entityframwork\Crud by Entityframwork\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Project\Crud by Entityframwork\Crud by Entityframwork\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Project\Crud by Entityframwork\Crud by Entityframwork\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Project\Crud by Entityframwork\Crud by Entityframwork\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Project\Crud by Entityframwork\Crud by Entityframwork\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Project\Crud by Entityframwork\Crud by Entityframwork\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Project\Crud by Entityframwork\Crud by Entityframwork\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Project\Crud by Entityframwork\Crud by Entityframwork\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Project\Crud by Entityframwork\Crud by Entityframwork\bin\roslyn\System.AppContext.dll
+C:\Project\Crud by Entityframwork\Crud by Entityframwork\bin\roslyn\System.Collections.Immutable.dll
+C:\Project\Crud by Entityframwork\Crud by Entityframwork\bin\roslyn\System.Console.dll
+C:\Project\Crud by Entityframwork\Crud by Entityframwork\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Project\Crud by Entityframwork\Crud by Entityframwork\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Project\Crud by Entityframwork\Crud by Entityframwork\bin\roslyn\System.IO.Compression.dll
+C:\Project\Crud by Entityframwork\Crud by Entityframwork\bin\roslyn\System.IO.FileSystem.dll
+C:\Project\Crud by Entityframwork\Crud by Entityframwork\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Project\Crud by Entityframwork\Crud by Entityframwork\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Project\Crud by Entityframwork\Crud by Entityframwork\bin\roslyn\System.IO.Pipes.dll
+C:\Project\Crud by Entityframwork\Crud by Entityframwork\bin\roslyn\System.Reflection.Metadata.dll
+C:\Project\Crud by Entityframwork\Crud by Entityframwork\bin\roslyn\System.Security.AccessControl.dll
+C:\Project\Crud by Entityframwork\Crud by Entityframwork\bin\roslyn\System.Security.Claims.dll
+C:\Project\Crud by Entityframwork\Crud by Entityframwork\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Project\Crud by Entityframwork\Crud by Entityframwork\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Project\Crud by Entityframwork\Crud by Entityframwork\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Project\Crud by Entityframwork\Crud by Entityframwork\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Project\Crud by Entityframwork\Crud by Entityframwork\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Project\Crud by Entityframwork\Crud by Entityframwork\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Project\Crud by Entityframwork\Crud by Entityframwork\bin\roslyn\System.ValueTuple.dll
+C:\Project\Crud by Entityframwork\Crud by Entityframwork\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Project\Crud by Entityframwork\Crud by Entityframwork\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Project\Crud by Entityframwork\Crud by Entityframwork\bin\roslyn\System.Xml.XPath.dll
+C:\Project\Crud by Entityframwork\Crud by Entityframwork\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Project\Crud by Entityframwork\Crud by Entityframwork\bin\roslyn\vbc.exe
+C:\Project\Crud by Entityframwork\Crud by Entityframwork\bin\roslyn\vbc.exe.config
+C:\Project\Crud by Entityframwork\Crud by Entityframwork\bin\roslyn\vbc.rsp
+C:\Project\Crud by Entityframwork\Crud by Entityframwork\bin\roslyn\VBCSCompiler.exe
+C:\Project\Crud by Entityframwork\Crud by Entityframwork\bin\roslyn\VBCSCompiler.exe.config
+C:\Project\Crud by Entityframwork\Crud by Entityframwork\bin\Antlr3.Runtime.dll
+C:\Project\Crud by Entityframwork\Crud by Entityframwork\bin\EntityFramework.dll
+C:\Project\Crud by Entityframwork\Crud by Entityframwork\bin\EntityFramework.SqlServer.dll
+C:\Project\Crud by Entityframwork\Crud by Entityframwork\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Project\Crud by Entityframwork\Crud by Entityframwork\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Project\Crud by Entityframwork\Crud by Entityframwork\bin\Microsoft.Web.Infrastructure.dll
+C:\Project\Crud by Entityframwork\Crud by Entityframwork\bin\Newtonsoft.Json.dll
+C:\Project\Crud by Entityframwork\Crud by Entityframwork\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Project\Crud by Entityframwork\Crud by Entityframwork\bin\System.Web.Helpers.dll
+C:\Project\Crud by Entityframwork\Crud by Entityframwork\bin\System.Web.Mvc.dll
+C:\Project\Crud by Entityframwork\Crud by Entityframwork\bin\System.Web.Optimization.dll
+C:\Project\Crud by Entityframwork\Crud by Entityframwork\bin\System.Web.Razor.dll
+C:\Project\Crud by Entityframwork\Crud by Entityframwork\bin\System.Web.WebPages.Deployment.dll
+C:\Project\Crud by Entityframwork\Crud by Entityframwork\bin\System.Web.WebPages.dll
+C:\Project\Crud by Entityframwork\Crud by Entityframwork\bin\System.Web.WebPages.Razor.dll
+C:\Project\Crud by Entityframwork\Crud by Entityframwork\bin\WebGrease.dll
+C:\Project\Crud by Entityframwork\Crud by Entityframwork\bin\EntityFramework.xml
+C:\Project\Crud by Entityframwork\Crud by Entityframwork\bin\EntityFramework.SqlServer.xml
+C:\Project\Crud by Entityframwork\Crud by Entityframwork\bin\System.Web.Helpers.xml
+C:\Project\Crud by Entityframwork\Crud by Entityframwork\bin\System.Web.Mvc.xml
+C:\Project\Crud by Entityframwork\Crud by Entityframwork\bin\System.Web.Optimization.xml
+C:\Project\Crud by Entityframwork\Crud by Entityframwork\bin\System.Web.Razor.xml
+C:\Project\Crud by Entityframwork\Crud by Entityframwork\bin\System.Web.WebPages.xml
+C:\Project\Crud by Entityframwork\Crud by Entityframwork\bin\System.Web.WebPages.Deployment.xml
+C:\Project\Crud by Entityframwork\Crud by Entityframwork\bin\System.Web.WebPages.Razor.xml
+C:\Project\Crud by Entityframwork\Crud by Entityframwork\bin\Newtonsoft.Json.xml
+C:\Project\Crud by Entityframwork\Crud by Entityframwork\bin\Antlr3.Runtime.pdb
+C:\Project\Crud by Entityframwork\Crud by Entityframwork\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Project\Crud by Entityframwork\Crud by Entityframwork\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Project\Crud by Entityframwork\Crud by Entityframwork\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Project\Crud by Entityframwork\Crud by Entityframwork\obj\Debug\Crud by Entityframwork.csproj.CopyComplete
